@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Fullname": "Jhon Doe",
+    "Username": "jhon01",
+    "Password": "pass001"
+  },
+  {
+    "Id": 2,
+    "Fullname": "jhon doe",
+    "Username": "user001",
+    "Password": "password001"
+  },
+  {
+    "Id": 2,
+    "Fullname": "jhon doe1",
+    "Username": "user0012",
+    "Password": "password0012"
+  },
+  {
+    "Id": 3,
+    "Fullname": "jhon doe",
+    "Username": "user0012",
+    "Password": "password00121"
+  }
+]
